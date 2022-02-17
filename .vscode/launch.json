@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "https://github.com/opentok/opentok-video-call-center",
+            "request": "launch",
+            "url": "https://github.com/opentok/opentok-video-call-center"
+        }
+    ]
+}
